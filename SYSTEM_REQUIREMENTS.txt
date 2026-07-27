@@ -1,0 +1,70 @@
+======================================================
+  METROLIST — SYSTEM REQUIREMENTS
+  Version: 0.1.0
+======================================================
+
+------------------------------------------------------
+  MINIMUM REQUIREMENTS  (smallest to run the app)
+------------------------------------------------------
+
+  OS          : Windows 10 (64-bit) or later
+  CPU         : Dual-core 1.6 GHz (x64)
+  RAM         : 2 GB
+  Disk Space  : 500 MB free
+                  (includes Electron runtime + JVM)
+  Java (JRE)  : Java 11 or newer  ← REQUIRED
+                  Download: https://adoptium.net
+  Network     : Active internet connection
+                  (streams audio from YouTube Music)
+  Display     : 1024 × 600 minimum resolution
+
+------------------------------------------------------
+  RECOMMENDED REQUIREMENTS  (smooth experience)
+------------------------------------------------------
+
+  OS          : Windows 10 / 11 (64-bit)
+  CPU         : Quad-core 2.0 GHz or faster
+  RAM         : 4 GB or more
+  Disk Space  : 1 GB free
+  Java (JRE)  : Java 17 LTS (recommended)
+                  Download: https://adoptium.net
+  Network     : Broadband (5 Mbps+) for HD audio
+  Display     : 1280 × 800 or higher
+
+------------------------------------------------------
+  NOTES
+------------------------------------------------------
+
+  • Java MUST be installed and available on PATH.
+    To check, open a terminal and run:
+        java -version
+    If it prints a version, you are good to go.
+
+  • The app starts a local backend server on port 8091.
+    Make sure no other app is using that port.
+
+  • Antivirus software may slow down the first launch
+    while it scans the Java backend. This is normal.
+
+  • Internet connection is required at all times.
+    Metrolist streams music live; offline playback
+    is not supported in this version.
+
+  • The app takes 10–40 seconds to fully start on
+    first launch because the Kotlin/Java backend
+    needs to compile and warm up (dev mode only).
+    Installed builds (.exe) start faster.
+
+------------------------------------------------------
+  QUICK START
+------------------------------------------------------
+
+  Install mode:
+    Run "Metrolist Setup 0.1.0.exe" from the release
+    folder and follow the installer.
+
+  Dev / portable mode (requires Node.js + npm):
+    Open terminal in the metrolist-web folder and run:
+        npm run electron
+
+======================================================

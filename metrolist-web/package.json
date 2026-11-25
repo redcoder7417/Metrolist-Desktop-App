@@ -37,6 +37,13 @@
     "appId": "com.metrolist.app",
     "productName": "Metrolist",
     "electronDist": "node_modules/electron/dist",
+    "publish": [
+      {
+        "provider": "github",
+        "owner": "redcoder7417",
+        "repo": "Metrolist-Desktop-App"
+      }
+    ],
     "directories": {
       "output": "release-new/v14.0.0"
     },

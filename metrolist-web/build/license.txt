@@ -1,0 +1,21 @@
+END USER LICENSE AGREEMENT
+
+Last updated: January 2026
+
+Please read this End User License Agreement ("Agreement") carefully before installing Metrolist.
+
+1. LICENSE GRANT
+Metrolist grants you a revocable, non-exclusive, non-transferable, limited license to download, install and use the Application strictly in accordance with the terms of this Agreement.
+
+2. RESTRICTIONS
+You agree not to, and you will not permit others to:
+- License, sell, rent, lease, assign, distribute, transmit, host, outsource, disclose or otherwise commercially exploit the Application.
+- Modify, make derivative works of, disassemble, decrypt, reverse compile or reverse engineer any part of the Application.
+
+3. INTELLECTUAL PROPERTY
+The Application, including without limitation all copyrights, patents, trademarks, trade secrets and other intellectual property rights are, and shall remain, the sole and exclusive property of the developers.
+
+4. DISCLAIMER
+THE APPLICATION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+By installing Metrolist, you agree to these terms. Enjoy the music!

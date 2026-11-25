@@ -1,0 +1,13 @@
+backend/.gradle
+backend/.kotlin
+backend/build
+node_modules
+dist
+release
+release-exe
+release-new
+.sf
+.env
+*.db
+*.m4a
+*.webm

@@ -1,0 +1,29 @@
+# Logs & Environment
+*.log
+.env
+.sf/
+.agents/
+
+# Node & Vite Build
+node_modules/
+dist/
+
+# Electron Installer Outputs
+release/
+release-exe/
+release-new/
+*.exe
+*.blockmap
+
+# Gradle / Kotlin / Java Build Caches
+.gradle/
+.kotlin/
+backend/.gradle/
+backend/.kotlin/
+backend/build/
+
+# Runtime Databases & Audio Caches
+*.db
+*.m4a
+*.webm
+Metrolist-13.6.1/
